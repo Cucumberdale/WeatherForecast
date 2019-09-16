@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WeatherForecast": {
+      "commandName": "Project",
+      "commandLineArgs": "Warszawa metric advanced"
+    }
+  }
+}
